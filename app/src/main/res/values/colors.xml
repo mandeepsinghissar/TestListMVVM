@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <color name="colorPrimary">#717171</color>
+     <color name="colorPrimaryDark">#525252</color>
+     <color name="colorAccent">#363636</color>-->
+
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#263238</color>
+    <color name="colorAccentnew">#263238</color>
+
+    <color name="c1">#3F51B5</color>
+    <color name="c2">#303F9F</color>
+    <color name="c3">#FF4081</color>
+
+
+    <!--<color name="colorPrimary">#000000</color>-->
+    <!--<color name="colorPrimaryDark">#000000</color>-->
+    <!--<color name="colorAccent">#000000</color>-->
+    <!--<color name="colorAccentnew">#000000</color>-->
+
+    <color name="colorblue1_graph">#398ed2</color>
+    <color name="colorblue2_graph">#86c4f5</color>
+    <color name="colorblue3_graph">#80a5c4</color>
+
+
+    <color name="lightGray">#D4D4D4</color>
+    <color name="bgd_white">#e8ebf4</color>
+    <color name="colorPrimarytransparent">#b6283e56</color>
+
+
+    <color name="purple_500">#9C27B0</color>
+    <color name="deep_purple_500">#673AB7</color>
+
+    <color name="theme_500">#607D8B</color>
+
+    <color name="accent_A100">#FF8A80</color>
+    <color name="LinkedIn">#11ABF0</color>
+    <color name="Fern">#37c186</color>
+
+    <color name="White_Smoke">#fefeff</color>
+    <color name="FloralWhite">#eff0f4</color>
+    <color name="LightGrey">#D3D3D3</color>
+    <color name="metal">#283953</color>
+
+
+    <color name="dot_light_screen1">#ffffff</color>
+    <color name="dot_light_screen2">#ffffff</color>
+    <color name="dot_light_screen3">#ffffff</color>
+
+    <color name="dot_dark_screen1">#84ffffff</color>
+    <color name="dot_dark_screen2">#84ffffff</color>
+    <color name="dot_dark_screen3">#84ffffff</color>
+
+    <color name="chatBlue">#03A9F4</color>
+    <color name="colortext">#100b20</color>
+    <color name="colorhint">#a9aaac</color>
+    <color name="colorAccent2">#373f4C</color>
+    <color name="red">#fd0a0f</color>
+    <color name="reddish">#e25521</color>
+    <color name="omron_sky_blue">#00bbcc</color>
+    <color name="omron_green">#70c83d</color>
+    <color name="omron_voilet">#ad77e7</color>
+    <color name="omron_dark_blue">#4196e6</color>
+    <color name="omron_mustard">#EBA62D</color>
+    <color name="firebrick">#B22222</color>
+    <color name="green">#018901</color>
+    <color name="green_light">#94df94</color>
+
+    <color name="blue">#d54467b1</color>
+    <color name="orange">#ff5900</color>
+    <color name="colorAccentLight">#994a5780</color>
+    <color name="white">#ffffff</color>
+    <color name="white_orignal">#ffffff</color>
+    <color name="black">#263238</color>
+    <color name="transparent_color">#29000000</color>
+
+    <color name="yellow_dark">#FF9900</color>
+
+    <color name="light_purple">#69708D</color>
+    <color name="dark_purple">#051350</color>
+    <color name="new_gray">#C9CBDB</color>
+
+
+    <color name="glass">#3cb8b9b9</color>
+    <color name="glassdark">#77747b7e</color>
+    <color name="glassdarker">#99484e53</color>
+    <color name="glassblue">#dceaef</color>
+
+    <color name="gray">#b6beb4</color>
+    <color name="grayDark">#949090</color>
+    <color name="grayMettlic">#798089</color>
+
+    <color name="light_brown">#b77474</color>
+    <color name="tab_active">#E9967A</color>
+    <color name="tab_inactive">#e3e3e3</color>
+    <color name="tab_background">#363636</color>
+    <color name="login_btn_color">#F9b030</color>
+    <color name="login_bg_color">#2F3F4B</color>
+    <color name="title_background">#8A98A3</color>
+    <color name="transparent">#00000000</color>
+    <color name="silver">#cacace</color>
+
+    <color name="blue_900">#0D47A1</color>
+
+    <color name="wave_white">#44fafafc</color>
+
+    <!--New color code for chatting-->
+    <color name="background_app">#edece2</color>
+
+
+    <color name="fab_color_1">#ff5252</color>
+    <color name="fab_color_1_muted">#ff8080</color>
+    <color name="fab_color_2">#9c27b0</color>
+    <color name="fab_color_2_muted">#a56ab0</color>
+
+    <color name="button_color_text">#9E9E9E</color>
+    <color name="color_text_info">#d5d1ac</color>
+
+    <color name="action_bar_01">#2196F3</color>
+    <color name="primary_01">#1565C0</color>
+
+    <color name="chat_orange">#FFC107</color>
+    <color name="chat_green">#4CAF50</color>
+    <color name="chat_blue">#03A9F4</color>
+
+    <color name="selected">#a8cf45</color>
+    <color name="unselected">#ff8cae3b</color>
+
+
+    <color name="mandy_red">#FF3366</color>
+    <color name="mandy_watermelon">#FF688D</color>
+    <color name="mandy_mustard">#FFD25B</color>
+    <color name="mandy_gamboge">#E6A700</color>
+    <color name="mandy_persian_green">#00B28B</color>
+    <color name="mandy_maya_blue">#62B3FF</color>
+    <color name="mandy_tau_grey">#949191</color>
+    <color name="mandy_dav_grey">#565454</color>
+    <color name="mandy_light_gray">#D4D4D4</color>
+    <color name="mandy_white_gray">#F0F0F0</color>
+    <color name="mandy_ghost_white">#F9F9F9</color>
+    <color name="mandy_antiflash_white">#F2F2F2</color>
+
+    <color name="gray_light">#e4e4e4</color>
+
+    <color name="no_data_color">#263238</color>
+    <color name="table_header_color">#263238</color>
+    <color name="table_text_color">#ffffff</color>
+    <color name="heading_color">#263238</color>
+    <color name="heading_text_color">#ffffff</color>
+    <color name="button_color">#263238</color>
+    <color name="text_color">#263238</color>
+    <color name="tabs_custom_color">#263238</color>
+    <color name="tabs_custom_text_color">#ffffff</color>
+    <color name="tabs_custom_unselected_color">#ffffff</color>
+    <color name="tabs_custom_unselected_text_color">#263238</color>
+    <color name="black_cool">#263238</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="colour_highlight_grey">#ff666666</color>
+    <color name="colour_dark_blue">#ff000066</color>
+    <color name="colour_dark_green">#804CAF50</color>
+    <color name="back_light">#fff3f3f3</color>
+
+    <color name="naya_red">#FF8F73</color>
+    <color name="naya_red_dark">#E1381F</color>
+    <color name="naya_green">#B5E2E1</color>
+    <color name="naya_green_dark">#73AAA9</color>
+    <color name="naya_violet">#DDE657</color>
+    <color name="naya_violet_dark">#85920C</color>
+    <color name="naya_yellow">#FFC300</color>
+    <color name="naya_yellow_dark">#B96E00</color>
+    <color name="naya_pink">#FAC1B8</color>
+    <color name="naya_pink_dark">#C96457</color>
+
+    <color name="default_gray">#808080</color>
+    <color name="whiteGray">#F0F0F0</color>
+
+
+
+    <color name="new_green">#46B275</color>
+    <color name="new_yellow">#FFC043</color>
+    <color name="new_red">#F25139</color>
+    <color name="new_brown">#99644C</color>
+    <color name="new_orange">#FF7D49</color>
+    <color name="new_purple">#7456BF</color>
+    <color name="new_blue">#276ef1</color>
+
+
+
+</resources>

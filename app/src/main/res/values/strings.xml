@@ -1,0 +1,420 @@
+<resources>
+    <string name="app_name">Test List</string>
+    <string name="verification_code_subtext">Please type the verification code.</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="validate">Validate</string>
+    <!--Or write \u0026 for & sign-->
+    <string name="terms_conditions_text">Terms &amp; Conditions\*</string>
+    <string name="terms_conditions_">Terms &amp; Conditions</string>
+    <string name="call_log_title"></string>
+    <string name="show_password">Show Password</string>
+    <string name="hide_password">Hide Password</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="view_profile_name">Name</string>
+    <string name="view_profile_email">Email</string>
+    <string name="view_profile_mobile">Mobile</string>
+    <string name="view_profile_addressone">Address 1</string>
+    <string name="view_profile_addresstwo">Address 2</string>
+    <string name="view_profile_change_password">Change Password</string>
+    <string name="view_userdetails_title">User Profile</string>
+    <string name="view_storedetails_title">Store mapped to</string>
+    <string name="drawer_footer">TRIAD Marketing Services ® company.</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="rupee_sign">₹ </string>
+
+    <string name="title_Sales">Sales</string>
+    <string name="title_Product">Product</string>
+    <string name="title_Menu">More</string>
+    <string name="title_Home">Home</string>
+    <string name="title_order">Order</string>
+    <string name="title_Attendance">Attendance</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_user_name">User Name</string>
+    <string name="nav_view_profile">View Profile</string>
+    <string name="nav_item_burn">Burn</string>
+    <string name="action_in_attendance">Mark In</string>
+    <string name="action_out_attendance">Mark Out</string>
+    <string name="select_option_gallery">Gallery</string>
+    <string name="select_option_camera">Take A Photo</string>
+    <string name="select_option_attachment">Attachment</string>
+    <string name="logout_msg">Do you want to logout ?</string>
+    <string name="notification_bell">bell</string>
+    <string name="select_option">Choose Option</string>
+    <string name="nav_drawer_image">image</string>
+    <string name="change_Password">Change Password</string>
+
+    <!-- TODO: Product List of Amazon -->
+    <string name="select_product">Select Product Type</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_userid">User Id</string>
+    <string name="promt_username_userid">Store Id</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_up">New User</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="action_forgot_password">Forgot Password?</string>
+    <string name="action_enter_email">Please Enter Email</string>
+    <string name="action_mobile_ten_digit">Please Enter 10 digit Mobile No.</string>
+    <string name="action_enter_password">Please Enter Password</string>
+    <string name="error_email_format">Please enter valid  Email</string>
+    <string name="internet_connection_failure">No Internet Connection</string>
+    <string name="error_invalid_email">email address is invalid</string>
+    <string name="audit_submitted_successfully">Audit Submitted Successfully</string>
+    <string name="upload_start">Upload Started</string>
+    <string name="upload_failed">Upload Failed, check your connection</string>
+    <string name="error_invalid_password">password is too short</string>
+    <string name="error_incorrect_password">password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="copyright_text">Copyright @ 2018-19 TRIAD Technologies</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="customer_heading_2">Please take a moment to tell us about your experience and how well we have been meeting your expectations.</string>
+    <string name="ARS_ATTENDANCE_NOT">Kindly in from store</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="welcome">Welcome</string>
+    <string name="fsn_search_hint">Search DSN (Put Last 4 Digits)</string>
+
+    <!--String related to New User-->
+    <string name="prompt_firstname">First Name</string>
+    <string name="prompt_lastname">Last Name</string>
+    <string name="tnc">Terms and Conditions \*</string>
+    <string name="prompt_mobile_number">Mobile No.</string>
+    <string name="prompt_confirm_password">Re-Enter Password</string>
+    <string name="mandatory_fields">*All fields are mandatory</string>
+    <string name="action_next">Next</string>
+    <string name="new_user_title">Members Details</string>
+    <string name="login_title">Welcome</string>
+    <string name="copy_right">Legal/Privacy \n&#169; 2020-21 TRIAD Technologies ® company. All rights reserved.</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+
+
+    <!--String related to DashBoard Fragment-->
+    <string name="title_notification">Notification</string>
+    <string name="dashboard_title">DashBoard</string>
+    <string name="dashboard_target">Target</string>\
+    <string name="dashboard_value"> - </string>
+    <string name="dashboard_acheivement_value"> - / - </string>
+    <string name="dashboard_achievement">Achievement % age</string>
+    <string name="dashboard_stock_update">Stock update till</string>
+    <string name="dashboard_models">Models</string>
+    <string name="dashboard_month_target">Month\nTarget</string>
+    <string name="dashboard_lastday_sales">Last Day Sales</string>
+    <string name="dashboard_mtd_sales">MTD Sales</string>
+    <string name="dashboard_stockin_hand">   Device Stock in\nHand</string>
+    <string name="dashboard_sell_out">   Device Sell Out</string>
+    <string name="dashboard_stock_in_access">   Accessory Stock in\nHand</string>
+    <string name="dashboard_sell_out_access">   Accessory Sell Out</string>
+    <string name="dashboard_mtd_attendance">  MTD\nAttendance</string>
+    <string name="dashboard_mtd_attendance_compilance">MTD Attendance Compiance</string>
+    <string name="dashboard_kre_sell_out">ARE Sell Out</string>
+    <string name="dashboard_store_sell_out">Store Sell Out</string>
+    <string name="dashboard_store_stock_in">Stock In Hand</string>
+    <string name="dashboard_mtd_title">MTD</string>
+    <string name="dashboard_fullday_title">Full Day</string>
+    <string name="dashboard_halfday_title">Half Day</string>
+    <string name="dashboard_weekoff_title">Week Off</string>
+
+    <string name="dashboard_mtd_compilance_title">MTD Attendance Compliance</string>
+    <string name="dashbaord_current_date_title">Current Date</string>
+    <string name="dashboard_percentage">Percentage %</string>
+
+    <string name="dashboard_kre_sellout_title">ARE Sell Out</string>
+    <string name="dashboard_kre_model_description">Model Description</string>
+    <string name="dashboard_sellout_model">Model</string>
+    <string name="dashboard_sellout_model_color">Colour</string>
+    <string name="dashboard_sellout_ftd">FTD</string>
+    <string name="dashboard_sellout_qtd">QTD</string>
+
+    <string name="dashboard_store_sellout_title">Store Sell Out</string>
+    <string name="dashboard_store_stockin_hand_title">Stock In Hand</string>
+    <string name="dashboard_store_quantity">Quantity\n(units)</string>
+    <string name="dashboard_store_rate">Rate</string>
+    <string name="dashboard_fsn">DSN</string>
+
+
+    <!--String related to Barcode Fragment-->
+    <string name="sale_out_title">Customer Details</string>
+    <string name="prompt_barcode">DSN</string>
+    <string name="prompt_name">Customer name</string>
+    <string name="prompt_invoice">Invoice No.</string>
+    <string name="prompt_phone">Customer phone no</string>
+    <string name="action_submit">SUBMIT</string>
+
+    <!--String related to Support Main Fragment-->
+    <string name="support_title">Support</string>
+    <string name="support_view_ticket">Ticket</string>\
+    <string name="support_audit">Audit</string>
+    <string name="support_fsn">DSN Issue</string>
+    <string name="support_leave">Apply Leave</string>
+
+    <!--String related to Support's Audit Fragment-->
+    <string name="audit_counter">Counter</string>
+    <string name="audit_gsb">GSB</string>\
+    <string name="audit_demo_unit">Demo Unit</string>
+    <string name="audit_product_shelf">Product/Display Shelf</string>
+    <string name="audit_others">Other</string>
+    <string name="audit_dialog_cancel">Cancel</string>
+    <string name="audit_dialog_confirm">Confirm</string>
+    <string name="audit_dialog_remarks">Remarks</string>
+
+    <!--Intent form fragment -->
+    <string name="form_select_date">Select Date</string>
+    <string name="form_po_nubmer">Purchase Order No.</string>
+    <string name="form_po_value">Purchase Order Value</string>
+    <string name="form_select_rd">Select Retailer</string>
+    <string name="form_upload_po">Upload Purchase Order</string>
+    <string name="form_item_description">Material Description</string>
+    <string name="form_purchase_qty">Qty</string>
+    <string name="form_purchase_price">Purchase Price</string>
+    <string name="form_add_more">Add More</string>
+    <string name="form_save">Save</string>
+    <string name="form_add_intentform">Request Stock</string>
+    <string name="form_requestdate">Date</string>
+    <string name="form_transactionid">Txn ID</string>
+    <string name="form_po_no">PO No.</string>
+    <string name="form_po_status">Status</string>
+    <string name="form_pvalue">PO Value</string>
+    <string name="form_item_id">ASIN</string>
+    <string name="form_item_qty">Qty</string>
+    <string name="form_item_price">Price</string>
+    <string name="form_retailer_title">Choose Distributor</string>
+    <string name="form_retailer_purchase_item">"Create Order "</string>
+    <string name="form_digits_value">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+    <string name="form_transaction_id">Transaction Id</string>
+    <string name="form_request_date">Request Date</string>
+    <string name="form_retailer_code">Retailer Code</string>
+    <string name="form_purchaseno">Purchase Order No.</string>
+    <string name="form_purchasedate">Purchase Date</string>
+    <string name="form_purchasevalue">Product Value</string>
+    <string name="form_view_all">View All</string>
+    <string name="form_imagelink"><u>Attachment</u></string>
+    <string name="form_status">Status</string>
+
+
+    <!--String related to support view ticket-->
+    <string name="support_leave_leave_id">Leave Id</string>
+    <string name="support_leave_date_to">To</string>
+    <string name="support_leave_date_from">From</string>
+    <string name="support_leave_status">Status</string>
+    <string name="support_leave_cancel">Cancel\nLeave</string>
+    <string name="leave_apply_days">No. Of Days</string>
+    <string name="leave_apply_date">Date</string>
+    <string name="leave_apply_time">Time</string>
+    <string name="leave_apply_daterange">Date Range</string>
+    <string name="leave_apply_description">Reason</string>
+    <string name="leave_apply_reason">Reason</string>
+    <string name="leave_apply_back">Back</string>
+    <string name="leave_apply_submit">Submit</string>
+    <string name="leave_apply_cancel_text">Cancel</string>
+    <string name="applied_leave_cancel">Cancel Request</string>
+
+
+    <!--String related to Support View Ticket Fragment-->
+    <string name="view_ticket_raise_ticket">Raise Ticket</string>
+    <string name="view_ticket_ticket_id">Ticket ID</string>\
+    <string name="view_ticket_date">Date</string>
+    <string name="view_ticket_subject">Subject</string>
+    <string name="view_ticket_status">Status</string>
+
+
+    <!--String related to Stock In Fragment-->
+    <string name="stock_in_model">Model</string>
+    <string name="stock_in_color">Color</string>\
+    <string name="stock_in_quantity">Quantity</string>
+    <string name="stock_in_add_stock">Add Stock</string>
+    <string name="stock_in_manual">Manually</string>
+    <string name="stock_in_add_Barcode">Barcode</string>
+
+    <string name="fsn">DSN No.</string>
+    <!--String array related to Support Raise Ticket Fragment-->
+    <string name="raise_ticket_description">Description</string>
+    <string name="raise_ticket_attachment">Attachment</string>
+    <string-array name="raise_ticket_subject_array">
+        <item>Subject</item>
+        <item>Stock not available</item>
+        <item>Merchandise</item>
+        <item>Store Related</item>
+        <item>Attendance</item>
+        <item>Sales return</item>
+        <item>DSN Related</item>
+        <item>Training</item>
+        <item>App Related</item>
+        <item>Echo Feedback</item>
+        <item>Speaker Mini Sellout</item>
+        <item>Speaker Home Sellout</item>
+        <item>Chromecast Sellout</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="raise_ticket_sendto_array">
+        <item>Send to</item>
+        <item>AM</item>
+        <item>SM</item>
+    </string-array>
+
+    <string-array name="raise_ticket_delete">
+        <item>Select Reason</item>
+        <item>Store Closure</item>
+        <item>Material sent to another store</item>
+
+        <item>Clear Extra Stock</item>
+        <item>Others</item>
+    </string-array>
+
+
+    <string-array name="spinner_description_array">
+        <item>Select Description</item>
+        <item>DSN does not exist!</item>
+        <item>DSN already Sold</item>
+        <item>Stock-In denied</item>
+        <item>DSN mapped to different channel</item>
+
+        <item>Other</item>
+    </string-array>
+
+
+    <string-array name="spinner_survey_array">
+        <item>Select</item>
+        <item>Never</item>
+        <item>Now</item>
+        <item>In Next 30 days</item>
+        <item>In Next 6 month</item>
+
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="spinner_survey_option">
+        <item>Select</item>
+        <item>0-2</item>
+        <item>3-5</item>
+        <item>6-12</item>
+        <item>12+</item>
+
+
+    </string-array>
+
+
+    <string-array name="raise_ticket_related_array">
+        <item>Related To</item>
+        <item>Store Related</item>
+        <item>KRE Related</item>
+        <item>Others</item>
+    </string-array>
+
+
+    <!--String array related to Customer Fragment-->
+    <string name="walkin_option">Add Walkin</string>
+    <string name="create_lead_option">Create Lead</string>
+    <string name="view_lead_table_heading_date">Date</string>
+    <string name="view_lead_table_heading_customer_name">Customer name</string>
+    <string name="view_lead_table_heading_status">Status</string>
+    <string name="walkin_krename">ARE Name</string>
+    <string name="walkin_title">Walk In</string>
+    <string name="walkin_count">No. of\nWalkin</string>
+    <string name="walkin_notfound">No walkin found</string>
+
+    <!--String array related to Customer create lead Fragment-->
+    <string name="create_lead_customer_name">Customer Name</string>
+    <string name="create_lead_customer_email">Email</string>
+    <string name="create_lead_customer_mobile">Mobile</string>
+    <string-array name="create_lead_status_array">
+        <item>Hot</item>
+        <item>Cold</item>
+        <item>Warm</item>
+    </string-array>
+
+    <!--String array related to Customer walkin Fragment-->
+    <string name="number_of_walkin">Number of Walk-in</string>
+
+    <!--String array related to change password dialog-->
+    <string name="current_password">Enter Current Password</string>
+    <string name="new_password">Enter New Password</string>
+    <string name="confirm_password">Enter Confirm Password</string>
+    <string name="change_password_button_text">Change Password</string>
+
+    <string-array name="select_payment_mode">
+        <item>Select payment type</item>
+        <item>Cash or Card</item>
+        <item>EMI</item>
+    </string-array>
+
+    <string-array name="select_prebook">
+        <item>Select type of sale</item>
+        <item>Normal Sale</item>
+        <item>Pre-Booked Sale</item>
+    </string-array>
+
+    <string-array name="select_backdated_mode">
+        <item>Select Backdated sale reason</item>
+        <item>Week Off</item>
+        <item>Forgot to mark sale</item>
+        <item>Mapping issue</item>
+        <item>Due to increase in footfalls</item>
+        <item>Issue in APP</item>
+        <item>Others</item>
+
+    </string-array>
+
+
+    <!--String array related to Customer view Fragment-->
+    <string-array name="view_lead_status_array">
+        <item>Hot</item>
+        <item>Cold</item>
+        <item>Warm</item>
+        <item>Closed</item>
+    </string-array>
+
+    <string-array name="product_category_list">
+        <item>Select Type</item>
+        <item>Device</item>
+        <item>Accessory</item>
+    </string-array>
+
+
+    <string name="select">Select</string>
+    <string name="action_productlist">Product List</string>
+    <string name="action_faq">FAQ</string>
+    <string name="send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Fsn Issue List and DSN issue entry-->
+    <string name="fsn_issue_title">DSN Issue</string>
+    <string name="add_fsn_issue">Add DSN</string>
+    <string name="fsn_date">Date</string>
+    <string name="fsn_asin">ASIN\nDSN No.</string>
+    <string name="fsn_no">DSN No.</string>
+    <string name="fsn_status">Status</string>
+    <string name="text_item">Message</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="echo_desc">• Echo Dot is a hands-free smart speaker that you control using your voice.\n• It connects to Alexa – a cloud based voice service to play music, make calls, check weather and news, set alarms, control smart home devices, and much more.
+\n• Echo Dot includes a built-in speaker. It can also connect to external speakers or headphones through Bluetooth or 3.5 mm stereo cable.
+\n• Just ask for a song, artist, or genre from your favourite music services like Amazon Prime Music, Saavn, and TuneIn.\n• Using multi-room music, you can even play music across multiple Echo devices at the same time.
+\n• With seven microphones, beam-forming technology, and noise cancellation, Echo Dot hears you from any direction-even in noisy environments or while playing music.
+\n• Call or message anyone hands-free who also has an Echo device or the Alexa App. Simply ask "Alexa, how do I set up calling?" to get started. You can also use Alexa to make Skype calls.
+\n• Controls lights, plugs, and more with compatible connected devices from Philips, Syska, TP-Link and Oakter.
+\n• Alexa is always getting smarter and adding new features and skills. Just ask Alexa to order food from Zomato, request a ride from Ola, book a carpenter from Urbanclap, and more. </string>
+
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_savedfeedback">Saved Feedback</string>
+    <string name="title_detail">Details</string>
+
+
+    <string name="title_notifications">Notifications</string>
+
+</resources>
