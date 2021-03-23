@@ -39,6 +39,7 @@ class TestListFragment : BaseFragment<TestListViewModel, FragmentTestListBinding
                if(viewModel.apiResponse.value?.code  == Constants.SUCCESS)
                {
                    binding.listViewTestList.visible(true)
+                   //binding
 
                }else{
 
